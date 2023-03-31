@@ -1,6 +1,7 @@
 <h1>Weather-IOS</h1>
 
-Weather app using swift
+Weather app using UIKit
+
 
 
 WeatherToday-IOS is an IOS application designed to provide information about the current weather conditions in a specific location or region. You can choose your own location or choose from the name of the city. It typically uses real-time data from the Weather API.
