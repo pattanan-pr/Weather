@@ -1,4 +1,4 @@
-<h1>Weather-IOS</h1>
+<h1>WeatherToday-IOS</h1>
 
 Weather app using UIKit
 
